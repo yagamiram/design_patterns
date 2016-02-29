@@ -19,4 +19,6 @@ Primary tasks in object oriented programming are:
 
 Designing object model : http://www.tutorialspoint.com/object_oriented_analysis_design/ooad_uml_basic_notation.htm
 
-Note: OOD design is  to sketch out the classes and methods to implement technical problems or real-life objects. These questions are not so much about regurgitating design patterns as they are about demonstrating that you understand how to create elegant, maintainable objectoriented code.
+Note: OOD design is  to sketch out the classes and methods to implement technical problems or real-life objects. 
+These questions are not so much about regurgitating design patterns as they are 
+about demonstrating that you understand how to create elegant, maintainable objectoriented code.
