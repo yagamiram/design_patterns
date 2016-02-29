@@ -1,0 +1,10 @@
+Points to remember when u are going to design an object model X [OOP question]
+
+1. Don't immediately go and draw the boxes in the white board.
+2. Ask questions to interviewer. Take your time to understand the design.
+3. Find the methods for the design. If you can't find a method they you are doomed.
+4. Do Evolutionary design; Don't over complixate. start in easiest lowest basic way then improve it.
+5. Most of the designing needs to have interface or abstract class/boxes. Verify if it is needed from interviewer. Because the design 
+   problem migh tnot need an interface or abstract
+6. Use a design pattern to show off your skills
+7. Check the scalability of your design.
