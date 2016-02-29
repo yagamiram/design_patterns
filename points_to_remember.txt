@@ -8,3 +8,13 @@ Points to remember when u are going to design an object model X [OOP question]
    problem migh tnot need an interface or abstract
 6. Use a design pattern to show off your skills
 7. Check the scalability of your design.
+
+
+Primary tasks in object oriented programming are:
+1. Identify the objects
+2. Organizing the objects using object model diagram
+3. Defining the internals of the object i.e object's attributes [member variables]
+4. Defining the behavious of the object i.e object actions [member functions]
+5. How objects interact.
+
+Designing object model : http://www.tutorialspoint.com/object_oriented_analysis_design/ooad_uml_basic_notation.htm
