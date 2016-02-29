@@ -1,1 +1,2 @@
+Very good starting point for OOP design:
 http://www.nomachetejuggling.com/2010/04/06/avoiding-the-big-design-interview-question/
