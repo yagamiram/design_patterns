@@ -28,3 +28,6 @@ about demonstrating that you understand how to create elegant, maintainable obje
 When being asked an object-oriented design question, you should inquire who is going
 to use it and how they are going to use it. Depending on the question, you may even
 want to go through the "six Ws": who, what, where, when, how, why.
+
+Template:
+If it has to deal with users. Then have two classes: user management class (abstract) and user class
